@@ -57,4 +57,4 @@ jobs:
           app-name: 'sistemacalificaciones123'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_574244A7A4334835AC3574D4F47E1BE8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6115C02ADBC5465E83EE32E154EA544D }}
